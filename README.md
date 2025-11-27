@@ -1,57 +1,100 @@
-<h2 align="center">👋 Hola, soy <strong>Frank David Palma</strong> ✨</h2>
+<h1 align="center">Frank David Palma</h1>
 
-<p align="center">Estudiante de Ingeniería de Sistemas – 8° semestre | Universidad Cooperativa de Colombia</p>
-<p align="center"><strong>Frontend Developer en crecimiento con visión creativa + bases en desarrollo FullStack</strong></p>
-
----
-
-### 🧠 Sobre mí
-
-Soy un desarrollador apasionado por crear interfaces web modernas, limpias y visualmente atractivas.  
-Manejo tecnologías tanto en frontend como backend, pero mi línea profesional está enfocada en convertirme en **Frontend Developer especializado en Angular + TypeScript**, sin soltar mi lado creativo para diseño UI, edición audiovisual y modelado 3D.
-
-Me gusta construir, aprender y mejorar.  
-Si algo puede hacerse más rápido, más bonito o más escalable — yo lo optimizo.
+<p align="center">
+  Estudiante de Ingeniería de Sistemas – 8.º semestre · Universidad Cooperativa de Colombia
+</p>
+<p align="center">
+  Frontend Developer en crecimiento, con fundamentos Fullstack y enfoque en interfaces modernas y eficientes.
+</p>
 
 ---
 
-### 🚀 Tecnologías & Herramientas
+## Sobre mí
 
-#### 💻 Frontend
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,tailwind" height="45"/>
+Soy desarrollador con interés principal en el ecosistema frontend, especialmente en Angular y TypeScript.  
+Cuento con bases sólidas en programación, bases de datos y principios de arquitectura de software, lo que me permite comprender el ciclo completo de una aplicación web.
 
-#### ⚙ Backend
-<img src="https://skillicons.dev/icons?i=java,python,nodejs" height="45"/>
+Me interesa construir soluciones que combinen:
 
-#### 🗄 Bases de Datos
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="45"/>
-
-#### 🛠 Desarrollo & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" height="45"/>
-
-#### 🎨 Diseño, Multimedia & 3D
-<img src="https://skillicons.dev/icons?i=canva,figma,ps,pr,ae,blender" height="45"/>
+- Código mantenible y escalable.
+- Buenas prácticas de desarrollo.
+- Interfaces claras, profesionales y orientadas a la experiencia del usuario.
+- Un criterio visual soportado por herramientas de diseño y edición multimedia.
 
 ---
 
-### 🚧 Objetivo Profesional
+## Tecnologías y Herramientas
 
-🔥 Convertirme en **Frontend Developer Senior** con foco en:
+### Frontend
 
-✔ Angular + TypeScript  
-✔ UI moderna + UX intuitiva  
-✔ Arquitectura limpia  
-✔ Componentes reutilizables  
-✔ Animaciones y microinteracciones visuales  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,tailwind,figma" height="45" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,express" height="45" />
+</p>
+
+### Bases de Datos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="45" />
+</p>
+
+### Desarrollo y DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" height="45" />
+</p>
+
+### Diseño, Multimedia y 3D
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=canva,ps,pr,ae,blender" height="45" />
+</p>
 
 ---
 
-### 📬 Contacto
+## Enfoque profesional
 
-📧 **Frankpalma0605@gmail.com**  
-💼 LinkedIn (puedo agregarlo en cuanto lo compartas)
+A corto y mediano plazo, mi objetivo es consolidarme como **Frontend Developer** capaz de:
+
+- Diseñar y desarrollar interfaces en Angular y TypeScript.
+- Aplicar patrones y buenas prácticas en proyectos reales.
+- Integrar frontend con APIs y servicios backend.
+- Colaborar en equipos multidisciplinares, aportando tanto criterio técnico como visual.
 
 ---
 
-<p align="center">✨ "El código es la lógica, el diseño es el alma." ✨</p>
+## GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=FrankDesarrollo&show_icons=true&theme=react&hide_border=false&count_private=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankDesarrollo&layout=compact&theme=react&hide_border=false"
+  />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=FrankDesarrollo&theme=tokyonight&margin-w=15&margin-h=15"
+  />
+</p>
+
+---
+
+## Contacto
+
+- Correo: **Frankpalma0605@gmail.com**
+- GitHub: [github.com/FrankDesarrollo](https://github.com/FrankDesarrollo)
 
