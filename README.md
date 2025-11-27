@@ -18,6 +18,8 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Always building, learning and improving!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
   <i>Sobre mí</i>
@@ -56,13 +58,19 @@
 
 <br clear="both"/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tecnologías y Herramientas
 </h2>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">Frontend Development</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind,bootstrap,sass" height="60"/>
 </p>
+
 <h3 align="center">Backend Development & Databases</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,spring,php,laravel" height="60"/>
@@ -70,22 +78,30 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" height="60"/>
 </p>
+
 <h3 align="center">DevOps & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,bash,nginx,aws,azure" height="60"/>
 </p>
+
 <h3 align="center">Design & Multimedia</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,premiere,aftereffects" height="60"/>
 </p>
+
 <h3 align="center">Other Technologies</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman,graphql,webpack,vite,npm,yarn" height="60"/>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Estadísticas de GitHub
 </h2>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrankDesarrollo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BCF8&icon_color=38BCF8&text_color=C9D1D9&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankDesarrollo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BCF8&text_color=C9D1D9" />
@@ -94,16 +110,28 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FrankDesarrollo&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BCF8&ring=38BCF8&fire=38BCF8&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=38BCF8&sideLabels=38BCF8&dates=C9D1D9" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"> Gráfico de Contribuciones
 </h2>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FrankDesarrollo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BCF8&line=38BCF8&point=C9D1D9&area=true&area_color=38BCF8" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="35px"> Trofeos de GitHub
 </h2>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FrankDesarrollo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
