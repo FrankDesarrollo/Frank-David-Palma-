@@ -22,15 +22,24 @@
 <img align="right" width=300px alt="Gandalf" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif" />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Sobre mí...
 
-✅ Actualmente estudiando: Ingeniería de Sistemas
-✅ Especializado en: Angular + TypeScript
-✅ Apasionado por: Diseño UI/UX y la creación de interfaces hermosas
-✅ Buscando: Colaborar en contribuciones Open Source
-✅ Construyendo: Aplicaciones web escalables con Arquitectura Limpia
-✅ Siempre: Mejorando mis habilidades y aprendiendo nuevas tecnologías
-✅ Pregúntame sobre: Angular, TypeScript, Desarrollo Frontend
-✅ Meta: Convertirme en un Frontend Developer de clase mundial
-✅ Dato curioso: Creo que cada día es una oportunidad de aprendizaje
+<h2 align="center">👤 Sobre mí</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ObNTw8U2wy6K0/giphy.gif" width="60px"/>
+</p>
+
+<ul style="list-style:none;">
+  <li>✅ <b>Actualmente estudiando:</b> Ingeniería de Sistemas</li>
+  <li>🟢 <b>Especializado en:</b> Angular + TypeScript</li>
+  <li>✨ <b>Apasionado por:</b> UI/UX y creación de interfaces hermosas</li>
+  <li>🌍 <b>Buscando:</b> Contribuir en proyectos Open Source</li>
+  <li>🚀 <b>Construyendo:</b> Aplicaciones escalables con Arquitectura Limpia</li>
+  <li>📈 <b>Crecimiento constante:</b> Mejorando habilidades y aprendiendo nuevas tecnologías</li>
+  <li>💬 <b>Pregúntame sobre:</b> Angular · TypeScript · Desarrollo Frontend</li>
+  <li>🎯 <b>Meta:</b> Convertirme en un Frontend Developer de clase mundial</li>
+  <li>🧠 <b>Dato curioso:</b> Cada día es una oportunidad de aprendizaje</li>
+</ul>
+
 
 
 <h2 align="center">🛠️ Tecnologías y Herramientas</h2>
@@ -70,3 +79,4 @@ Gestión de Proyectos: Metodologías ágiles (Scrum), planificación y control d
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FrankDesarrollo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
+
