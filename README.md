@@ -1,133 +1,115 @@
-<!-- ================== BANNER / CABECERA ================== -->
-
+<!-- ================== 🔥 BANNER PRINCIPAL ================== -->
 <p align="center">
-  <!-- Reemplaza la URL de abajo por tu banner de Canva cuando lo tengas -->
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="220" alt="Banner Frank Palma"/>
+  <!-- Reemplaza por tu banner cuando lo diseñes (la URL de Canva o GitHub IMG) -->
+  <img src="https://i.imgur.com/kYp8aFn.png" height="240"/>
 </p>
 
-<h1 align="center">Frank David Palma</h1>
+<h1 align="center"><b>Hola, soy Frank David Palma 👨🏻‍💻</b></h1>
 <h3 align="center">Frontend Developer | Ingeniería de Sistemas | UI · Web · Tecnología</h3>
 
+---
+
+<br>
+
+<!-- ================== 🔥 PRESENTACIÓN ESTILO ANIMADO ================== -->
+
 <p align="center">
-  Estudiante de Ingeniería de Sistemas (8.º semestre) · Universidad Cooperativa de Colombia · Cali - Colombia
-  <br/>
-  Enfocado en desarrollo frontend con Angular + TypeScript, complementado con bases en backend, bases de datos y diseño visual aplicado.
+  <em>
+    Desarrollador enfocado en <b>Frontend</b> con Angular + TypeScript,<br>
+    apasionado por crear interfaces modernas, limpias y escalables.   
+    <br><br>
+    
+    Con bases en backend, bases de datos y arquitectura limpia,<br>
+    busco crecer profesionalmente construyendo software con intención,<br>
+    diseño funcional y código mantenible.
+  </em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40"/> 
+  <b><i>Aprendiendo, creando y mejorando cada día...</i></b>  
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40"/>
 </p>
 
 ---
 
-## Sobre mí
+<br>
 
-Soy desarrollador con enfoque en **frontend**, orientado a crear interfaces claras, mantenibles y escalables.  
-Integro lógica, diseño y buenas prácticas para construir productos web que se sientan modernos y eficientes.
+<!-- ================== 🚀 STACK DE TECNOLOGÍAS (ICONS GRANDES Y BONITOS) ================== -->
 
-Me caracterizo por aprender rápido, cuidar los detalles y escribir código con intención.
+<h2 align="center">🚀 Tecnologías y Herramientas</h2>
 
-**Convicciones de trabajo**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,tailwind,figma,react,nodejs,express,python,java,postgres,mysql,mongodb,docker,git,github,linux,vscode,photoshop,premiere,aftereffects,blender,canva&theme=dark" height="80"/>
+</p>
 
-- Código legible, modular y mantenible  
-- Diseño visual con criterio, no solo decoración  
-- Mejora continua y aprendizaje iterativo  
-- Metodologías limpias y procesos ordenados  
+<br>
 
 ---
 
-## Tecnologías
+<!-- ================== 🎯 PERFIL PROFESIONAL ESTILO ELEGANTE ================== -->
+
+<h2 align="center">🎯 Enfoque Profesional</h2>
 
 <p align="center">
+📌 Mi objetivo es consolidarme como <b>Frontend Developer</b> capaz de construir<br>
+interfaces modernas, escalables y con buenas prácticas en producción.
+</p>
 
-  <!-- FRONTEND -->
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS"/>
-
-  <!-- BACKEND -->
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-
-  <!-- DATABASES -->
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
-
-  <!-- DEVOPS -->
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
-
-  <!-- DISEÑO & CREATIVIDAD -->
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" alt="Premiere Pro"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" alt="After Effects"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender"/>
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva"/>
-
+<p align="center">
+✔ Desarrollo con Angular + TypeScript <br>
+✔ Arquitectura modular, mantenible y reusable <br>
+✔ UI limpia con intención + rendimiento técnico<br>
+✔ Trabajo con metodologías limpias y ordenadas<br>
 </p>
 
 ---
 
-## Enfoque profesional
+<br>
 
-Mi objetivo es consolidarme como **Frontend Developer** capaz de:
+<!-- ================== 📊 STATS PROFESIONALES ================== -->
 
-- Diseñar y construir interfaces en Angular + TypeScript.  
-- Integrar APIs y servicios backend desde el frontend.  
-- Aplicar patrones de arquitectura limpia y buenas prácticas.  
-- Combinar criterio visual con rendimiento y mantenibilidad.  
-
----
-
-## GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=FrankDesarrollo&show_icons=true&theme=react&count_private=true"
-    alt="GitHub stats FrankDesarrollo"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankDesarrollo&layout=compact&theme=react"
-    alt="Top Langs FrankDesarrollo"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FrankDesarrollo&show_icons=true&theme=react&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankDesarrollo&layout=compact&theme=react&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=FrankDesarrollo&theme=react"
-    alt="GitHub Streak FrankDesarrollo"
-  />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=FrankDesarrollo&theme=react&hide_border=true"/>
+</p>
+
+<br>
+
+<!-- ================== 🏆 TROPHIES ================== -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FrankDesarrollo&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
 ---
 
-## GitHub Trophies
+<br>
+
+<!-- ================== 📩 CONTACTO ================== -->
+
+<h2 align="center">📩 Contacto</h2>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=FrankDesarrollo&theme=tokyonight&margin-w=12&margin-h=12"
-    alt="GitHub Trophies FrankDesarrollo"
-  />
+  📧 <b>frankpalma0605@gmail.com</b><br>
+  💼 LinkedIn: (agregaremos link cuando me lo pases)<br>
+  🔗 GitHub: https://github.com/FrankDesarrollo
 </p>
 
 ---
 
-## Contacto
-
-- 📧 **Correo:** frankpalma0605@gmail.com  
-- 🔗 **GitHub:** https://github.com/FrankDesarrollo  
-- 🔗 **LinkedIn:** (agrega aquí tu enlace cuando lo tengas)
-
-
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="90">
+  <br><b>Gracias por visitar mi perfil.</b>
+</p>
 
 
