@@ -4,23 +4,24 @@
   Estudiante de Ingeniería de Sistemas – 8.º semestre · Universidad Cooperativa de Colombia  
 </p>
 <p align="center">
-  Frontend Developer en formación | Fundamentos en backend, bases de datos y diseño visual aplicado al desarrollo web
+  Frontend Developer en formación · Bases en backend, bases de datos y diseño visual aplicado a desarrollo
 </p>
 
 ---
 
 ## Sobre mí
 
-Desarrollador con enfoque en frontend, especialmente en Angular y TypeScript.  
-Me gusta construir interfaces claras, escalables y eficientes, integrando lógica, diseño visual y buenas prácticas de ingeniería.  
+Desarrollador enfocado en frontend con Angular y TypeScript.  
+Disfruto crear interfaces claras, escalables y eficientes con intención visual y buenas prácticas de ingeniería.  
+Tengo base técnica en backend, bases de datos y principios de arquitectura limpia para entender el ciclo completo de una aplicación web.
 
-Busco crecer profesionalmente en equipos donde pueda aportar código con estructura, intención y estética funcional.
+Busco crecer profesionalmente aportando código bien estructurado, mantenible y con estética funcional.
 
-**Convicciones de trabajo:**
-- Código legible, mantenible y modular
-- Diseño visual aplicado con criterio
-- Aprendizaje continuo y mejora iterativa
-- Trabajo con metodologías limpias y ordenadas
+**Convicciones de trabajo**
+- Código legible, modular y mantenible  
+- Diseño visual aplicado con criterio  
+- Aprendizaje continuo e iteración constante  
+- Metodologías limpias y organizadas  
 
 ---
 
@@ -34,16 +35,16 @@ Busco crecer profesionalmente en equipos donde pueda aportar código con estruct
 
 ### Enfoque Profesional
 
-Mi objetivo es consolidarme como Frontend Developer con capacidad para:
+Mi objetivo es consolidarme como Frontend Developer capaz de:
 
 - Construir UI escalables con Angular + TypeScript  
-- Consumir APIs y comunicar frontend con backend  
-- Aplicar patrones de arquitectura limpia en proyectos reales  
-- Integrar desarrollo con diseño visual funcional  
+- Consumir e integrar APIs desde frontend  
+- Aplicar patrones y buenas prácticas reales  
+- Unir desarrollo con diseño visual funcional  
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=FrankDesarrollo&show_icons=true&theme=react&count_private=true"/>
@@ -52,7 +53,7 @@ Mi objetivo es consolidarme como Frontend Developer con capacidad para:
 
 ---
 
-### GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FrankDesarrollo&theme=tokyonight&margin-w=15&margin-h=15" />
@@ -63,6 +64,5 @@ Mi objetivo es consolidarme como Frontend Developer con capacidad para:
 ### Contacto
 
 📩 **Frankpalma0605@gmail.com**  
-🔗 GitHub: https://github.com/FrankDesarrollo  
-
+🔗 Perfil: https://github.com/FrankDesarrollo  
 
