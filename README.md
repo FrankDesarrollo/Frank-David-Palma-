@@ -18,11 +18,19 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Always building, learning and improving!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<img align="right" width=380px alt="Gandalf" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif" />
+<p align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
+  <b><i>Always building, learning and improving!</i></b> 
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
 
-<h2>🌟 Sobre mí</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+  <i>Sobre mí</i>
+</h2>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -51,7 +59,7 @@
 </tr>
 </table>
 
-<br clear="both"/>
+<br>
 
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tecnologías y Herramientas
@@ -104,6 +112,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FrankDesarrollo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
+
 
 
 
